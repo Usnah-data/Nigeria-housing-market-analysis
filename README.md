@@ -35,7 +35,7 @@ Housing affordability and price distribution vary significantly across Nigerian 
 
 ##  Tools Used
 - Power BI
-- Excel / CSV dataset
+- Excel 
 - Data Cleaning & Transformation
 - Data Visualization
 
